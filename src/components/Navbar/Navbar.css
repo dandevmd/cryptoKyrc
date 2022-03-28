@@ -1,0 +1,19 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    font-size: 3rem;
+    color: #FFD700;
+}
+
+h1 {
+    padding-left: 15px;
+    color: #FFD700;
+}
+
+.purple {
+    color: #6900ff;
+}
