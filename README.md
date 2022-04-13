@@ -1,3 +1,3 @@
-Cryptocurrency data site build with coingecko API;
+Cryptocurrency data site ;
 
-REACT/TAILWIND
+REACT/coingecko API
